@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Projects</string>
+    <string name="if_you_don_t_have_an_account_click_here">If you don\'t have an account , <u>Click here.</u></string>
+    <string name="if_you_have_alrea_registerd_click_here_to_login">If you have alrea registerd <u>Click here to login</u></string>
+
+</resources>
